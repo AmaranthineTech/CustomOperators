@@ -47,7 +47,7 @@ prefix operator **
  - version: 1.0
  */
 @available(*, message: "This is used to perform squaring operations on all Numeric types")
-prefix func **<T : Numeric> (input : T) -> T {
+public prefix func **<T : Numeric> (input : T) -> T {
     input * input
 }
 
@@ -88,7 +88,7 @@ postfix operator ~>
  - version: 1.0
  */
 @available(*, message: "This is used to get the string value of the data")
-postfix func ~> <T : CustomStringConvertible> (argument : T) -> String {
+public postfix func ~> <T : CustomStringConvertible> (argument : T) -> String {
     return argument.description
 }
 
