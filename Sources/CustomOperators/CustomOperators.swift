@@ -99,13 +99,13 @@ public postfix func ~> <T : CustomStringConvertible> (argument : T) -> String {
  
  _*values*_
  
-  `exactly_the_same`
+ `exactly_the_same`
  
-  `almost_the_same`
+ `almost_the_same`
  
-  `slightly_similar`
+ `slightly_similar`
  
-  `completely_different`
+ `completely_different`
  
  - Author: Arun Patwardhan
  - Version: 1.0
