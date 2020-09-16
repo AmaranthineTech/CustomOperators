@@ -97,6 +97,16 @@ public postfix func ~> <T : CustomStringConvertible> (argument : T) -> String {
 /**
  `DegreeOfSimilarity` enum represents the level of similarity
  
+ _*values*_
+ 
+  `exactly_the_same`
+ 
+  `almost_the_same`
+ 
+  `slightly_similar`
+ 
+  `completely_different`
+ 
  - Author: Arun Patwardhan
  - Version: 1.0
  - Date: 14th September 2020
