@@ -8,3 +8,4 @@ For more information read the blog on custom operators at https://www.arunpatwar
 
 There is also a video for this. You can view the video at https://www.youtube.com
 
+To see how to use the operator look at the project in the repository: https://github.com/AmaranthineTech/CustomOperatorsUsageDemo
