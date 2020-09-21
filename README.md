@@ -4,7 +4,7 @@ A description of this package.
 
 This package contains sample code for some operators that have been custom designed. 
 
-For more information read the blog on custom operators at https://www.arunpatwardhan.com
+For more information read the blog on custom operators at https://arunpatwardhan.com/2020/09/21/creating-custom-operators-in-swift/
 
 There is also a video for this. You can view the video at https://youtu.be/8K_s5wOO_F8
 
